@@ -1,0 +1,22 @@
+{
+  "name": "ikuuu-auto-checkin",
+  "version": "1.0.1",
+  "description": "ikuuu自动签到",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisk809/ikuuu_autocheckin.git"
+  },
+  "engines": {
+    "node": ">= v14"
+  },
+  "author": "Lisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lisk809/ikuuu_autocheckin/issues"
+  },
+  "homepage": "https://github.com/Lisk809/ikuuu_autocheckin#readme"
+}
